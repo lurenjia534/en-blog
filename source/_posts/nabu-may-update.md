@@ -31,3 +31,4 @@ The basics, as always, I used the latest May source code to build the pixel expe
 
 - bluetooth fix
 - Turn off wide color gamut (WCG)
+*I will explain why and what I do*
