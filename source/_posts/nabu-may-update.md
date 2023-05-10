@@ -26,6 +26,9 @@ The basics, as always, I used the latest May source code to build the pixel expe
 - HDR enable
 - Enable wide color gamut (WCG)
 - Sustained High Performance Mode
+- Support Xiaomi protective case
+- Support external keyboard
+- Support millet pen
 
 ### What's in June?
 
