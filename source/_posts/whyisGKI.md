@@ -2,9 +2,9 @@
 title: What is GKI
 categories: Android
 tags:
-- Android
-- Kernel
-- GKI
+  - Android
+  - Kernel
+  - GKI
 ---
 
 ### Getting to the Point: What is GKI
@@ -15,7 +15,9 @@ GKI stands for Generic Kernel Image, also known as Android Common Kernels.
 
 The purpose of GKI is to address Android fragmentation. Manufacturers often modify the kernel source code and add device drivers to provide support for System-on-Chips (SoCs) and peripheral devices. However, these modifications can be extensive, leading to a situation where up to 50% of the code running on a device is out-of-tree code (not from the upstream Linux and AOSP common kernels).
 A device kernel consists of the following parts:
+
 <!--more-->
+
 Upstream: Linux kernel from kernel.org
 AOSP: Additional Android-specific patches for the AOSP common kernel
 Vendor: Support and optimization patches from the SoC vendor for their devices
