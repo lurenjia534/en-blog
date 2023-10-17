@@ -10,7 +10,7 @@ tags: ["Pixel", "Open-source", "Security", "Privacy"]
 We aim for open system and kernel source code while also being committed to digital forensics security. We demand a smooth system but also wish our privacy and freedom to be protected. Admittedly, this creates a contradiction.
 
 ## Pixel: A Strong Contender
-
+<!--more-->
 In my opinion, Pixel has indeed accomplished this balance. Being a niche phone under Google, Pixel features the latest system specifications.
 
 ### Open-Source Kernel
