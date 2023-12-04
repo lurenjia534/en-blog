@@ -4,11 +4,6 @@ date: 2023-11-19
 categories: ["Technology", "Smartphones"]
 tags: ["ROM", "Open-source"]
 ---
-
-## Introduction
-
-In this tutorial, we will guide you through the process of flashing a ROM using Fastboot. Fastboot is a tool that allows you to modify the firmware of your Android device. By flashing a custom ROM, you can unlock new features, improve performance, and customize your device to your liking.
-
 ## Prerequisites
 
 Before you begin, make sure you have the following:
