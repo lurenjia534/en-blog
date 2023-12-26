@@ -32,4 +32,3 @@ if recovery rom
     fastboot reboot recovery # reboot to recovery
     adb sideload <rom.zip> # sideload rom
 ```
-
