@@ -1,5 +1,6 @@
 ---
 title: What is GKI
+data: 2023-11-28
 categories: Android
 tags:
   - Android
