@@ -1,5 +1,6 @@
 ---
 title: How to Install AOSP ROM on Xiaomi Mi Pad 5
+data: 2023-09-30
 categories: ROM
 tags:
     - ROM
